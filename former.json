@@ -1,0 +1,43 @@
+{
+	"firkanter": [{
+			"x": 50,
+			"y": 70,
+			"height": 25,
+			"width": 25,
+			"fill": "red"
+		},
+		{
+			"x": 80,
+			"y": 70,
+			"height": 50,
+			"width": 50,
+			"fill": "green"
+		},
+		{
+			"x": 140,
+			"y": 70,
+			"height": 75,
+			"width": 75,
+			"fill": "blue"
+		}
+	],
+	"sirkel": [{
+			"x": 50,
+			"y": 250,
+			"rad": 10,
+			"color": "red"
+		},
+		{
+			"x": 120,
+			"y": 250,
+			"rad": 20,
+			"color": "green"
+		},
+		{
+			"x": 190,
+			"y": 250,
+			"rad": 35,
+			"color": "blue"
+		}
+	]
+}
